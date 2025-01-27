@@ -1,4 +1,6 @@
+new line to fix conflict
 testing
-practicing
+practicingD
 change from master
+im edditing this line in conflict branch
 making changings to second branch 
