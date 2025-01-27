@@ -1,3 +1,4 @@
 testing
 practicing
+im edditing this line in conflict branch
 making changings to second branch 
