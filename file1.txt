@@ -1,5 +1,5 @@
 new line to fix conflict
-testing
+testing from new branch
 practicingD
 change from master
 im edditing this line in conflict branch
